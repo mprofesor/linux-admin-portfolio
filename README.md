@@ -1,6 +1,5 @@
 # Linux Sysadmin Portfolio (Junior Level)
 
-Witaj!  
 To repozytorium jest moim portfolio, które dokumentuje moje praktyczne umiejętności z zakresu administracji systemami Linux oraz wirtualizacji.  
 Stworzone z myślą o aplikowaniu na stanowisko Linux Administrator.
 
