@@ -15,6 +15,10 @@ Stworzone z myślą o aplikowaniu na stanowisko Linux Administrator.
 - `virtualization.md` - Virtualization
 - `vpn.md` - VPN
 
+## A także moje skrypty .sh stworzone na potrzebę tego repozytorium:
+
+- `generate_readme_list.sh` - Generate Readme List
+
 ## Technologie i narzędzia
 
 - **Linux Debian/Kali** (sysadmin)
