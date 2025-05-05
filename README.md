@@ -5,12 +5,15 @@ Stworzone z myślą o aplikowaniu na stanowisko Linux Administrator.
 
 ## Co znajdziesz w repo?
 
-- `virtualization.md` — Tworzenie maszyn wirtualnych w VirtualBox + best practices
-- `ssh-hardening.md` — Podstawowa checklist’a hardeningu serwera Linux
-- `hardening-theory.md` — Ściągawka najważniejszych komend sieciowych dla admina
-- `monitoring.md` - Instalacja i konfiguracja Fail2Ban
-- `user-management.md`(W trakcie budowy) - Zarządzanie kontami użytkowników
-- (W planach: `hardening-advanced.md`, `services.md`, `monitoring-advanced.md`...)
+- `firewall.md` - Firewall
+- `hardening-theory.md` - Hardening Theory
+- `monitoring.md` - Monitoring
+- `nginx-simple-server.md` - Nginx Simple Server
+- `README.md` - README
+- `ssh-hardening.md` - Ssh Hardening
+- `user-management.md` - User Management
+- `virtualization.md` - Virtualization
+- `vpn.md` - VPN
 
 ## Technologie i narzędzia
 
@@ -43,4 +46,4 @@ Cyberbezpieczeństwo, Ochrona PII i BugBounty to mnie interesuje. Administracja 
 
 ---
 
-## Status: W trakcie rozbudowy (Dzień 2 z 14)
+## Status: W trakcie rozbudowy (Dzień 4 z 14)
