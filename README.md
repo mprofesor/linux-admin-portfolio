@@ -11,7 +11,7 @@ Stworzone z myślą o aplikowaniu na stanowisko Linux Administrator.
 - `nginx-simple-server.md` - Nginx Simple Server
 - `README.md` - README
 - `ssh-hardening.md` - Ssh Hardening
-- `user-management.md` - User Management
+- `user-management-and-backups.md` - User Management And Backups
 - `virtualization.md` - Virtualization
 - `vpn.md` - VPN
 
@@ -50,4 +50,4 @@ Cyberbezpieczeństwo, Ochrona PII i BugBounty to mnie interesuje. Administracja 
 
 ---
 
-## Status: W trakcie rozbudowy (Dzień 4 z 14)
+## Status: W trakcie rozbudowy (Dzień 5 z 14)
