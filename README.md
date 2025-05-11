@@ -5,6 +5,8 @@ Stworzone z myślą o aplikowaniu na stanowisko Linux Administrator.
 
 ## Co znajdziesz w repo?
 
+- `docker-basics.md` - Docker Basics
+- `fileserver.md` - Fileserver
 - `firewall.md` - Firewall
 - `hardening-theory.md` - Hardening Theory
 - `monitoring.md` - Monitoring
