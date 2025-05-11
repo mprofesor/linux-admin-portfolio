@@ -52,4 +52,4 @@ Cyberbezpieczeństwo, Ochrona PII i BugBounty to mnie interesuje. Administracja 
 
 ---
 
-## Status: W trakcie rozbudowy (Dzień 5 z 14)
+## Status: W trakcie rozbudowy (Dzień 8 z 14)
