@@ -424,4 +424,4 @@ I dodaję linię:
 
 ## Podsumowanie
 
-Bazy danych to rozbudowany temat i zdaję sobię sprawę, że w tym pliku nie wyczerpałem wszystkiego co można o nich i o niuansach między nimi powiedzieć. Dodam na koniec tylko, że praca z nimi w przypadku serwera Linuxowego była łatwa i przyjemna. Ciekawym rozwiązaniem może być baza danych Redis, która działa w RAM'ie naszego serwera więc jest bardzo szybka. Bazy danych na pewno powrócą jak bumerang gdy przyjdzie wszystko składać do kupy ponieważ to właśnie ustrukturyzowane dane na serwerach są podstawą internetu.
+Bazy danych to rozbudowany temat i mam świadomość, że w tym pliku nie wyczerpałem wszystkich zagadnień ani niuansów związanych z różnymi systemami. Na koniec dodam tylko, że praca z nimi na serwerze Linux była dla mnie łatwa i przyjemna. Ciekawym rozwiązaniem jest Redis — baza danych działająca w pamięci RAM, co czyni ją niezwykle szybką. Temat baz danych na pewno powróci, gdy przyjdzie czas na łączenie wszystkiego w spójną całość, ponieważ to właśnie ustrukturyzowane dane na serwerach stanowią fundament działania internetu.
