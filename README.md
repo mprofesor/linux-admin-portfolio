@@ -5,6 +5,7 @@ Stworzone z myślą o aplikowaniu na stanowisko Linux Administrator.
 
 ## Co znajdziesz w repo?
 
+- `databases.md` - Databases
 - `docker-basics.md` - Docker Basics
 - `fileserver.md` - Fileserver
 - `firewall.md` - Firewall
@@ -20,6 +21,7 @@ Stworzone z myślą o aplikowaniu na stanowisko Linux Administrator.
 ## A także moje skrypty .sh stworzone na potrzebę tego repozytorium:
 
 - `generate_readme_list.sh` - Generate Readme List
+
 
 ## Technologie i narzędzia
 
@@ -52,4 +54,4 @@ Cyberbezpieczeństwo, Ochrona PII i BugBounty to mnie interesuje. Administracja 
 
 ---
 
-## Status: W trakcie rozbudowy (Dzień 8 z 14)
+## Status: W trakcie rozbudowy (Dzień 9 z 14)
